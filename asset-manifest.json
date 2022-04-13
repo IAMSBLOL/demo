@@ -2,13 +2,13 @@
   "files": {
     "main.css": "/demo/static/css/main.2546871c.css",
     "main.js": "/demo/static/js/main.dc65e7b0.js",
-    "runtime-main.js": "/demo/static/js/runtime-main.edda949b.js",
+    "runtime-main.js": "/demo/static/js/runtime-main.767fe0e1.js",
     "static/css/263.e102a8b4.chunk.css": "/demo/static/css/263.e102a8b4.chunk.css",
     "static/js/263.6f141d6c.chunk.js": "/demo/static/js/263.6f141d6c.chunk.js",
     "static/css/943.4e9a72ad.chunk.css": "/demo/static/css/943.4e9a72ad.chunk.css",
     "static/js/943.d7cd9991.chunk.js": "/demo/static/js/943.d7cd9991.chunk.js",
     "static/css/708.5058f163.chunk.css": "/demo/static/css/708.5058f163.chunk.css",
-    "static/js/708.6e96ae65.chunk.js": "/demo/static/js/708.6e96ae65.chunk.js",
+    "static/js/708.24fac6c4.chunk.js": "/demo/static/js/708.24fac6c4.chunk.js",
     "static/css/117.3e684774.chunk.css": "/demo/static/css/117.3e684774.chunk.css",
     "static/js/117.c0da71b6.chunk.js": "/demo/static/js/117.c0da71b6.chunk.js",
     "static/css/961.974f594c.chunk.css": "/demo/static/css/961.974f594c.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "/demo/static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;.1feff74f.bin"
   },
   "entrypoints": [
-    "static/js/runtime-main.edda949b.js",
+    "static/js/runtime-main.767fe0e1.js",
     "static/js/497.1e0e7fda.js",
     "static/css/main.2546871c.css",
     "static/js/main.dc65e7b0.js"
